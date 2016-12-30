@@ -5,7 +5,8 @@ Since we operate four projectors with two PCs, I created an application for each
 
 -
 
-- App logo  
-|表紙|中面1|
-|---|---|
-||||
+- __App logo__  
+ 
+|Base|Left|Right|   
+|---|---|---|
+|![](https://raw.githubusercontent.com/ShiraishiKakuya/ProjectionMappingPlayer/master/images-for-documentation/icon_base.png)|![](https://raw.githubusercontent.com/ShiraishiKakuya/ProjectionMappingPlayer/master/images-for-documentation/icon_L.png)|![](https://raw.githubusercontent.com/ShiraishiKakuya/ProjectionMappingPlayer/master/images-for-documentation/icon_R.png)|
